@@ -1,1 +1,1 @@
-#digital agency project - landing page
+#digital agency project - landing page for fireup.pro
