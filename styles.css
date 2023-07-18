@@ -70,6 +70,9 @@ a:visited {
 .nav-item-link:hover {
   color: #8eadd5;
 }
+a:visited {
+  color: #272d38; 
+}
 .nav-item li {
   color: #272d38;
   font-family: Inter;
